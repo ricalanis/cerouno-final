@@ -1,0 +1,15 @@
+# Final Exercise
+
+The dataset you're given (data.csv) contains information about vehicle colision reports in the Monterrey Metropolitan area.
+
+Analyze the data and answer the following questions based on it.
+
+Please be sure to reply back to us with your answers and attach the source code you used to answer them (it can be a Jupyter notebook, an Rmd script, an R script, a Python script, an Excel spreadsheet, etc.)
+
+## Questions
+
+1. Which roads "appear to be" the top 10 most dangerous roads of Monterrey Metropolitan area?
+2. What's the age group with the overall highest number of reported colisions? You can consider any age groupings for the purposes of this question. Explain this in a graphical way.
+3. If you were to see a collision in the "Garza Sada" road, What would be the odds for that person to have any type of positive alcohol ingestion opinion?
+4. Why do you think we use the phrase "appear to be" in question 1? What would you need to be able to speak with more confidence about the answer to that question?
+5. What modelling project would you push to develop from the conclusions in this dataset?
